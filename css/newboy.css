@@ -1,0 +1,74 @@
+* {
+    font-family: 'Poppins';
+    size: 14cm;
+    color: rgb(86, 85, 92), white;
+}
+
+.logo {
+    height: 35px;
+}
+
+#nav-computer {
+    background-color: #563d7c;
+    color: white;
+}
+
+#banner-computer {
+    height: 100vh;
+}
+
+#banner-computer img {
+    height: 350px;
+    background-color: papayawhip;
+}
+
+.banner-computer-h1 {
+    margin-top: 120px;
+}
+
+.button {
+    height: 35px;
+    width: 100px;
+    background-color: #563d7c;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+#banner-mobile {}
+
+#banner-mobile img {
+    height: 250px;
+    margin-left: 30px;
+}
+
+#about {
+    height: 100vh;
+}
+
+#about h2 {
+    margin top: 160px;
+}
+
+#about img {
+    margin-top: 160px;
+    height: 350px;
+}
+
+#about-mobile {}
+
+#contact img {
+    height: 300px;
+}
+
+#nav-mobile {
+    background-color: #563d7c;
+    color: white;
+}
+
+#daniel {
+    background-color: #563d7c;
+    color: white;
+    height: 15vh;
+}
