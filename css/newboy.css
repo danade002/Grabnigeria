@@ -45,26 +45,24 @@
 
 #about {
     height: 100vh;
-    background-color: #ecd4f0;
+    background-color: #e4b5f5;
 }
 
 #about h2 {
-    margin top: 160px;
+    margin-top: 160px;
 }
 
 #about img {
-    margin-top: 160px;
+    margin-top: px;
     height: 350px;
 }
-
-#about-mobile {}
 
 #contact img {
     height: 300px;
 }
 
 #nav-mobile {
-    background-color: #563d7c;
+    background-color: #a581da;
     color: white;
 }
 
