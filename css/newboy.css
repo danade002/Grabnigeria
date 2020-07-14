@@ -46,6 +46,7 @@
 #about {
     height: 100vh;
     background-color: #e4b5f5;
+    color: rgb(44, 43, 43)
 }
 
 #about h2 {
@@ -70,4 +71,8 @@
     background-color: #563d7c;
     color: white;
     height: 15vh;
+}
+
+#form-section {
+    height: 80vh;
 }
