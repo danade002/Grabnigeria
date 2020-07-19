@@ -8,4 +8,4 @@
 - Figma was used as the design tool
 
 ### The link to the website hosted on github is:
-https://danade002.github.io/newboy.html
+<a class="nav-item nav-link text-white" target="_blank" href="https://danade002.github.io/newboy.html"></a>
