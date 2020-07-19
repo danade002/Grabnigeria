@@ -1,4 +1,5 @@
-![](https://danade002.github.io/img/logo.png | height=60)
+
+# <a href="url"><img src="https://danade002.github.io/img/logo.png" align="left" height="40"></a>Demo Website for Grab Nigeria
 
 ## This website is for preview and contains
 - How a one page website should be 
