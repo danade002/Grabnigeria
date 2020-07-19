@@ -1,6 +1,4 @@
-
-<img src="https://danade002.github.io/img/logo.png "Demo Webpage for Grabnigeria" alt="Grabnigeria"
-	title="Demo Webpage for Grabnigeria" width="150" height="100" />
+![](https://danade002.github.io/img/logo.png | height=60)
 
 ## This website is for preview and contains
 - How a one page website should be 
