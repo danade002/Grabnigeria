@@ -1,5 +1,5 @@
 
-# <a href="url"><img src="https://danade002.github.io/img/logo.png" align="left" height="40"></a>Demo Website for Grab Nigeria
+# <a href="url"><img src="https://danade002.github.io/img/logo.png" align="left" height="35"></a>Demo Website for Grab Nigeria
 
 ## Important Information about this website: 
 - This website is majorly for _preview_ to show how a one page website should be 
