@@ -1,4 +1,4 @@
-# <a href='https://danade002.github.io/img/logo.png' height='100' width='35'/></a> Demo Webpage for Grabnigeria
+# <a img src='https://danade002.github.io/img/logo.png' height='100' width='35'/></a> Demo Webpage for Grabnigeria
 
 ## This website is for preview and contains
 - How a one page website should be 
