@@ -13,8 +13,9 @@ pipeline {
         }
         stage('__Deploy__') { 
             steps {
-                bat "mvn package" 
+                bat "mvn package"
             }
         }
     }
 }
+
